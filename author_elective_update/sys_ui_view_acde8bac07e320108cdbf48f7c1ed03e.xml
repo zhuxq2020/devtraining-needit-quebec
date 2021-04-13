@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>testVIew</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-13 07:21:06</sys_created_on>
+        <sys_id>acde8bac07e320108cdbf48f7c1ed03e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testVIew</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_acde8bac07e320108cdbf48f7c1ed03e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-13 07:21:06</sys_updated_on>
+        <title>testVIew</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>56f476eedbfecc10b847ac44d49619ef</instance_id>
+        <instance_name>dev100019</instance_name>
+        <name>sys_ui_view_acde8bac07e320108cdbf48f7c1ed03e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>testVIew</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-13 07:21:06</sys_created_on><sys_id>acde8bac07e320108cdbf48f7c1ed03e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>testVIew</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_view_acde8bac07e320108cdbf48f7c1ed03e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-13 07:21:06</sys_updated_on><title>testVIew</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>449168044</payload_hash>
+        <record_name>testVIew</record_name>
+        <reverted_from/>
+        <source>7e9d711807e320108cdbf48f7c1ed0af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-13 07:21:06</sys_created_on>
+        <sys_id>e0de8bac07e320108cdbf48f7c1ed041</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178ca1af13d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-13 07:21:06</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>2cde8bac49e32010b38616c5396a3140</update_guid>
+        <update_guid_history>2cde8bac49e32010b38616c5396a3140:449168044</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-13 07:37:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>131efde546084bc08675a33c1d5e2904</sys_id>
+        <sys_metadata>acde8bac07e320108cdbf48f7c1ed03e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testVIew</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_view_acde8bac07e320108cdbf48f7c1ed03e</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_acde8bac07e320108cdbf48f7c1ed03e">e0de8bac07e320108cdbf48f7c1ed041</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-13 07:37:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
